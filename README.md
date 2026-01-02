@@ -20,5 +20,4 @@ Data akademik semester 1 dan 2
 
 Aplikasi dibangun menggunakan Streamlit untuk memprediksi status mahasiswa berdasarkan input data yang diberikan pengguna.
 
-pip install -r requirements.txt
 streamlit run app.py
